@@ -106,7 +106,6 @@
 | 4 | 甘蔗 | 零食 | M | 10s | 241 | eating-prompts §三.4 | ✅ 待制作 |
 | 5 | 巧克力 | 甜品 | M | 10s | 241 | eating-prompts §三.5 | ✅ 待制作 |
 | 6 | 珍珠奶茶 | **饮品** | M | 10s | 241 | eating-prompts §三.6 | ✅ 待制作 |
-| 7 | 菠萝 | 水果 | M | 10s | 241 | eating-prompts §三.7 | ✅ 待制作 |
 | 8 | 榴莲 | 水果 | M | 10s | 241 | eating-prompts §三.8 | ✅ 待制作 |
 | 9 | 白开水 | **饮品** | S | 8s | 192 | supplement §二.D1 | ✅ 待制作 |
 | 10 | 热咖啡 | **饮品** | M | 10s | 241 | supplement §二.D3 | ✅ 待制作 |
@@ -147,7 +146,6 @@
 | **3 便当** | 蛋炒饭 🆕 | `ext_friedrice` | +720 | 0.30 | 待制作，**与白饭区分** |
 | | 便当 | `ext_noodles` | +720 | 0.30 | |
 | | 西瓜 | `ext_watermelon` | +720 | 0.30 | |
-| | 菠萝 🆕 | `ext_pineapple` | +720 | 0.32 | 待制作 |
 | | 甘蔗 🆕 | `ext_sugarcane` | +680 | 0.28 | 待制作 |
 | **4 正餐** | 正餐 | `ext_lunch` / `ext_dinner` | +1080 | 0.45 | |
 | | 早餐 | `ext_breakfast` | +1080 | 0.45 | |
